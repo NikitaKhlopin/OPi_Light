@@ -1,5 +1,4 @@
 import flask
-#from gpiozero import LED
 import OPi.GPIO as GPIO
 import os
 app = flask.Flask(__name__)
