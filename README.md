@@ -10,15 +10,15 @@
 
 <h2>Установка</h2>
 
-Установите менеджер пакетов apt-get install python3-pip
+1.Установите менеджер пакетов apt-get install python3-pip
 
-Установили venv sudo apt install -y python3-venv
+2.Установили venv sudo apt install -y python3-venv
 
-Cоздали виртуальное окружение python3 -m venv venv
+3.Cоздали виртуальное окружение python3 -m venv venv
 
-Активировали виртуальную среду source env/bin/activate
+4.Активировали виртуальную среду source env/bin/activate
 
-Выполнили установку пакетов pip install -r requirements.txt
+5.Выполнили установку пакетов pip install -r requirements.txt
 
-Установили библиотеку OrangePi.GPIO для работы с пинами pip install OrangePi.GPIO
+6.Установили библиотеку OrangePi.GPIO для работы с пинами pip install OrangePi.GPIO
 
